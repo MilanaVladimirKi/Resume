@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1LjlbhC3BgtvazKKYTRMPAOAs4GFtyfQaQSGlEEuz
 3. Тестирование юзабилити.
 https://docs.google.com/spreadsheets/d/1KD2fT61B4c8rIJkoCIMmKaGaaAlpcLWcBEISUBts0aE/edit#gid=1439482837 
 4. Командная работа
-https://github.com/MilanaVladimirKi/29.-Functional-testing-compatibility-testing
+https://github.com/MilanaVladimirKi/29.-Functional-testing-compatibility-testing..git
 5. Диплом
 https://github.com/MilanaVladimirKi/Diplom 
 
